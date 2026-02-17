@@ -18,8 +18,11 @@
   <a href="https://www.linkedin.com/in/felipe-valota" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:contato.felipevalota@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="https://mail.google.com/mail/?view=cm&to=contato.felipevalota@gmail.com" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/contato.felipevalota@gmail.com-D14836?logo=gmail&logoColor=white"
+      alt="Email"
+    />
   </a>
   <a href="mailto:contato.felipevalota@gmail.com">
     <img src="https://img.shields.io/badge/Projetos-Disponível-69896c" alt="Status" />
