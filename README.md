@@ -1,16 +1,51 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**dev-valota/dev-valota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=34&duration=2800&pause=900&color=69896c&background=00000000&center=true&vcenter=true&width=720&height=64&lines=Felipe+Valota;Software+Engineering;Web+%E2%80%A2+Full-stack+%E2%80%A2+Developer"
+      alt="Typing SVG"
+    />
+  </a>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Software Engineer com foco em qualidade de código, arquitetura e excelência de produto.
+> Atuo de ponta a ponta no desenvolvimento, criando soluções robustas, previsíveis e preparadas para evoluir com o negócio.
+
+<br/>
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/felipe-valota" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:contato.felipevalota@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="mailto:contato.felipevalota@gmail.com">
+    <img src="https://img.shields.io/badge/Projetos-Disponível-69896c" alt="Status" />
+  </a>
+</div>
+
+<br/>
+
+<div align="left">
+
+  ### Tech Stack
+
+  <img
+    src="https://skillicons.dev/icons?i=ts,nextjs,nuxt,nodejs,postgres,docker,tailwind,git,github,figma&theme=dark&perline=12"
+    alt="Tech Stack"
+  />
+
+  <br/>
+
+  ### Coding Vibe
+
+  <a href="https://open.spotify.com/intl-pt/track/7F2ZR42zJapZm5qTFsDiWs?si=51757672702e4023">
+    <img
+      src="https://img.shields.io/badge/Spotify-On_Repeat-1DB954?logo=spotify&logoColor=white"
+      alt="Spotify"
+    />
+  </a>
+
+</div>
