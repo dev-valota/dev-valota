@@ -36,7 +36,7 @@
   ### Tech Stack
 
   <img
-    src="https://skillicons.dev/icons?i=ts,nextjs,nuxt,nodejs,postgres,docker,tailwind,git,github,figma&theme=dark&perline=12"
+    src="https://skillicons.dev/icons?i=figma,ts,nextjs,nuxt,nestjs,tailwind,postgres,docker,git,github&theme=dark&perline=12"
     alt="Tech Stack"
   />
 
